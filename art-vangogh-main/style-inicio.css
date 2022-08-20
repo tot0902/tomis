@@ -1,0 +1,74 @@
+body{
+    margin: 0px;
+    padding-top: 0px;
+    top: 0px;
+    left: 0;
+    background-color: lightgray;
+}
+
+.logo{
+    width: 200px;
+    height: 57px;
+}
+
+.titulo{
+    background-color: lightyellow;
+    width: 100%;
+    margin: 0px;
+    padding: 0;
+    border: 0;
+}
+
+
+/* Menu de inicio'inicio*/
+.texto-menu{
+    text-align: right;
+}
+
+.informacion{
+    font-size: 30px;
+    margin: 10px;
+    display: inline-block;
+    border-width: 3px;
+    border-radius: 40px;
+    border-color: black;
+    border-style: solid;
+}
+
+.celda-menu{
+    display: inline-block;
+    margin: 0;
+    width: 47%;
+    border: 0;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.links-h:hover{
+    background-color: lightsalmon;
+}
+
+.config-links{
+    text-decoration: none;
+    padding: 5px;
+}
+/* Menu de inicio'fin*/
+
+/* Biografia'inicio*/
+
+.div-biografia{
+text-align: center;
+background-color: lightpink;
+width: 800px;
+padding: 10px;
+margin-top: 100px;
+margin-left: auto;
+margin-right: auto;
+border-width: 2px;
+border-style: solid;
+}
+
+.titulo-biografia{
+    font-size: 20px;
+    font-style: italic;
+}
